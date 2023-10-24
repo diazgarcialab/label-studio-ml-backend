@@ -1,0 +1,9 @@
+label-studio-ml @ git+https://github.com/HumanSignal/label-studio-ml-backend.git
+mobile-sam @ git+https://github.com/ChaoningZhang/MobileSAM.git
+label-studio-converter==0.0.57
+numpy==1.26.1
+supervision==0.6.0
+torch==2.0.1
+torchvision==0.15.2
+gunicorn==21.2.0
+boto3==1.28.69
